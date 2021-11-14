@@ -17,7 +17,10 @@
 # https://www.json.cn/
 
 # POST请求练习:
+import json
+
 import requests
+import sys
 
 url = "http://fy.iciba.com/" # 已经失效
 # 所以这里只模拟流程
@@ -37,12 +40,37 @@ class King(object):
 
     def post_data(self):
         # 使用POST请求, 发送带参数的请求
+        # data是一个带有参数的字典
         resp = requests.post(self.url, self.data, self.headers)
-
         return resp.content # 返回字节文件
 
-    def parse_data(self): #  解析数据
-        # 通过抓波工具, tong'y
-        # 将json
-        pass
+    def parse_data(self, data): #  解析数据
+        # 通过抓波工具, 分析数据
+        # 将json字符串转换成python字典
+        dict_data = json.loads(data)
+        # 拿到返回的响应json
+        # 根据不同的响应头, 使用try捕捉异常
+        try:
+            print(dict_data['content']['out'])
+        except:
+            print(dict_data['content']['word_mean'][0])
+
+
+
+
+
+
+    def run(self): # 爬虫运行逻辑
+        resp = self.post_data()
+        # print(resp)
+        self.parse_data(resp) # 将返回的json
+if __name__ == '__main__':
+    # word = input("请输入要翻译的单词或句子")
+    # 另一种参数输入的方式
+    # print(sys.argv)
+    # 在终端中, 输入参数, 直接运行
+    word = sys.argv[1]
+    king = King(word)
+    king.run() # 开启运行逻辑
+
 
