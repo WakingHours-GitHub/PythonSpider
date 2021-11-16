@@ -48,6 +48,7 @@
                 beautifulsoup -> xpath
                               -> 正则
                               ->  css选择器
+                            功能更多, 但是性能较差
                 pyquery -> css选择器
 
 
