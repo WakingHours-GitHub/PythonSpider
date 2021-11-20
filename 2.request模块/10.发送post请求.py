@@ -49,6 +49,8 @@ class King(object):
         # 将json字符串转换成python字典
         dict_data = json.loads(data)
         # 拿到返回的响应json
+        # 有经验的发现, 发现不同的响应头可以加if条件, 进行判断,
+        # 这里我们直接用try except: 做判断捕捉即可
         # 根据不同的响应头, 使用try捕捉异常
         try:
             print(dict_data['content']['out'])
