@@ -46,7 +46,7 @@ print(data['key1']['key2']['key3']['key4']['key5']['key6'])
 print(jsonpath(data, "$.key1.key2.key3.key4.key5.key6"))
 
 # 快速跨越层级:
-print(jsonpath(data, "$..key6")[0]) # 跨越层级的提取
+print(jsonpath(data, "$..key6")[0]) # 跨越层级的提取, 返回一个字典
 
 # jsonpath模块的练习
 
