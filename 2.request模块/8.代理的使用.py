@@ -38,7 +38,7 @@ proxies = {
 }
 # 使用代理：
 # https://www.kuaidaili.com/free/
-# 使用代理, 成功不会有任何报错, 能成功获取响应,
+# 使用代理, 成功不会有任何报错, 能成功获取W响应,
 # 要么失败, 要么卡滞, 要么报错
 url = "http://www.baidu.com"
 
