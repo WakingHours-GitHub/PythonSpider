@@ -30,7 +30,7 @@ print(resp1.text)
 url = "https://www.baidu.com/s?wd=python"
 resp2 = requests.get(url, headers=headers)
 
-with open("baidu1.html" , "wb") as f: # 以二进制的方式写入
+with open("baidu1.html", "wb") as f: # 以二进制的方式写入
     f.write(resp2.content) # 写入字节文件
 
 # 2. 通过params携带参数字典.

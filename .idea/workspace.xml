@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4a4331b-f477-47b5-b91f-acf2866231cd" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/1.爬虫基础/1_课程概述.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/1.爬虫基础/1_课程概述.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/1.request介绍.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/1.request介绍.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/10.发送post请求.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/10.发送post请求.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/11.总结一下,post的data如何获取.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/11.总结一下,post的data如何获取.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/12.requests.seesion进行会话保持.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/12.requests.seesion进行会话保持.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/13.request练习.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/13.request练习.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/2.response响应对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/2.response响应对象.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/3.requests发送请求.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/3.requests发送请求.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/4.在headers参数中携带cookie.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/4.在headers参数中携带cookie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/5.cookies参数的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/5.cookies参数的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/6.cookieJar对象转换为cookie字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/6.cookieJar对象转换为cookie字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/7.超市参数timeout的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/7.超市参数timeout的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/8.代理的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/8.代理的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/9.使用verify参数忽略CA证书.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/9.使用verify参数忽略CA证书.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/baidu1.html" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/baidu1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/baidu2.html" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/baidu2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.request模块/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/2.request模块/github.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.数据提取/1.概要.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/3.数据提取/1.概要.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.数据提取/2.jsonpath模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/3.数据提取/2.jsonpath模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.数据提取/3.lxml模块和Xpath语法.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/3.数据提取/3.lxml模块和Xpath语法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.数据提取/4.lxml模块的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/3.数据提取/4.lxml模块的使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.数据提取/5.爬取百度贴吧案例.py" beforeDir="false" afterPath="$PROJECT_DIR$/不知道是什么时候的课程/3.数据提取/5.爬取百度贴吧案例.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28biRSFmBnKPwK3brOEauyiDUrh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/PyCharm/pythonCrawler",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm\PythonCrawler(System)\不知道是什么时候的课程" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCrawler(System)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/世界银行/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/世界银行/demo/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a4331b-f477-47b5-b91f-acf2866231cd" name="Changes" comment="" />
+      <created>1651491677343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651491677343</updated>
+      <workItem from="1651491678576" duration="5783000" />
+      <workItem from="1652265899843" duration="64000" />
+      <workItem from="1652436086095" duration="42000" />
+      <workItem from="1653649887532" duration="16000" />
+      <workItem from="1655468935889" duration="72000" />
+      <workItem from="1655469023943" duration="1712000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonCrawler_System_$main.coverage" NAME="main Coverage Results" MODIFIED="1651495268969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/世界银行/demo" />
+  </component>
+</project>
