@@ -46,7 +46,7 @@
         请求: urlib, requests
         多线程: threading
         正则: re
-        json解析: json
+        json解析: json, jsonpath
         html dom解析: beautiful soup
         lxml: xpath
         操作浏览器: selenium
