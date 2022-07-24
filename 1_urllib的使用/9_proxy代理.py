@@ -36,7 +36,7 @@ request = Request(url, headers=headers)
 
 handler = ProxyHandler( # 传入一个字典, 用于表示什么请求方式, 和ip以及端口
     {
-        "http": "120.27.244.1:8888" #
+        "http": "111.42.175.236:9091" #
     },
     # { # 如果是使用购买的ip代理:
         # 则使用下面的方式:
@@ -47,6 +47,8 @@ handler = ProxyHandler( # 传入一个字典, 用于表示什么请求方式, �
 opener = build_opener(handler)
 # response = opener.open(request)
 
-response = opener.open(request)
+response = opener.open(request) # urlopen()源码也是使用opener发送请求的。
 
-print(response.read().decode())
+print(response.read().decode()) #
+
+# "origin": "111.42.175.236", # 可见, 代理已经生效了.
