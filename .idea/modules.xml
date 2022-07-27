@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PyTorch/.idea/PyTorch.iml" filepath="$PROJECT_DIR$/../PyTorch/.idea/PyTorch.iml" />
+      <module fileurl="file://G:/Python2021Base/.idea/Python2021Base.iml" filepath="G:/Python2021Base/.idea/Python2021Base.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonCrawler(System).iml" filepath="$PROJECT_DIR$/.idea/PythonCrawler(System).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data analysis/.idea/data analysis.iml" filepath="$PROJECT_DIR$/../data analysis/.idea/data analysis.iml" />
     </modules>
   </component>
 </project>

@@ -6,5 +6,8 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (PythonCrawler(System))" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="PyTorch" />
+    <orderEntry type="module" module-name="Python2021Base" />
+    <orderEntry type="module" module-name="data analysis" />
   </component>
 </module>
