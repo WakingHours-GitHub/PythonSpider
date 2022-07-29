@@ -12,6 +12,7 @@ from pyquery import PyQuery as pq
     URL:
     文件:
 
+也是可以通过CSS选择器进行选择。
 
 
 

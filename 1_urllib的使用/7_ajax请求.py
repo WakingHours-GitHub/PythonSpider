@@ -10,7 +10,7 @@ ajax请求: 动态页面.
 """
 
 from urllib.request import Request, urlopen
-from urllib.parse import urlencode, quote
+from urllib.parse import urlencode, quote  # 参数解析
 from fake_useragent import UserAgent
 
 # 查看网页源代码, 如果没有所需要的数据, 那么大部分情况下, 该数据采用的是动态请求.
@@ -26,6 +26,7 @@ while True:
     headers = {
         'user-agent': UserAgent().chrome
     }
+    # 拼接字符串。不断请求ajax请求。
     url = base_url.format(i * 20)
 
     request = Request(url, headers=headers)

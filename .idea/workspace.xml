@@ -24,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="G:/Python2021Base" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,7 +55,7 @@
       <recent name="D:\PyCharm\PythonCrawler(System)\不知道是什么时候的课程" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1_函数">
+  <component name="RunManager" selected="Python.8_多线程">
     <configuration name="1_函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python2021Base" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,28 +70,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="G:/Python2021Base/黑马/9_函数/1_函数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2_字典推导式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python2021Base" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="G:/Python2021Base/黑马/8_推导式" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="G:/Python2021Base/黑马/8_推导式/2_字典推导式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_xpath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7_jsonpath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCrawler(System)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +113,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_数据提取/5_xpath.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_数据提取/7_jsonpath.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_pyquery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8_多线程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCrawler(System)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,7 +135,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_数据提取/6_pyquery.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_数据提取/8_多线程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="proxies_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCrawler(System)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,12 +152,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目/爬取代理" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目/爬取代理/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目/proxies_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8_多线程" />
+        <item itemvalue="Python.proxies_test" />
+        <item itemvalue="Python.7_jsonpath" />
         <item itemvalue="Python.1_函数" />
         <item itemvalue="Python.3_列表推导式" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.6_pyquery" />
-        <item itemvalue="Python.5_xpath" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +197,9 @@
       <workItem from="1658847691030" duration="1044000" />
       <workItem from="1658881663896" duration="8439000" />
       <workItem from="1658919206915" duration="3143000" />
-      <workItem from="1658925706191" duration="1514000" />
+      <workItem from="1658925706191" duration="5291000" />
+      <workItem from="1658969917811" duration="10223000" />
+      <workItem from="1659007765292" duration="5902000" />
     </task>
     <servers />
   </component>
@@ -266,13 +246,16 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonCrawler_System_$1_requests.coverage" NAME="1_requests库 Coverage Results" MODIFIED="1658714243550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_进阶" />
     <SUITE FILE_PATH="coverage/PythonCrawler_System_$1_.coverage" NAME="1_函数 Coverage Results" MODIFIED="1658926750596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Python2021Base/黑马/9_函数" />
-    <SUITE FILE_PATH="coverage/PythonCrawler_System_$6_pyquery.coverage" NAME="6_pyquery Coverage Results" MODIFIED="1658886201930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_数据提取" />
+    <SUITE FILE_PATH="coverage/PythonCrawler_System_$7_jsonpath.coverage" NAME="7_jsonpath Coverage Results" MODIFIED="1658979630570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_数据提取" />
     <SUITE FILE_PATH="coverage/PythonCrawler_System_$main.coverage" NAME="main Coverage Results" MODIFIED="1658890863009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目/爬取代理" />
-    <SUITE FILE_PATH="coverage/PythonCrawler_System_$4_beatiful_soup.coverage" NAME="4_beatiful soup Coverage Results" MODIFIED="1658805277183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_数据提取" />
     <SUITE FILE_PATH="coverage/PythonCrawler_System_$2_.coverage" NAME="2_字典推导式 Coverage Results" MODIFIED="1658842306202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Python2021Base/黑马/8_推导式" />
     <SUITE FILE_PATH="coverage/PythonCrawler_System_$5_xpath.coverage" NAME="5_xpath Coverage Results" MODIFIED="1658883887816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_数据提取" />
+    <SUITE FILE_PATH="coverage/PythonCrawler_System_$8_.coverage" NAME="8_多线程 Coverage Results" MODIFIED="1659012881599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_数据提取" />
     <SUITE FILE_PATH="coverage/PythonCrawler_System_$3__re.coverage" NAME="3_糗事百科_re练习 Coverage Results" MODIFIED="1658800742757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_数据提取" />
     <SUITE FILE_PATH="coverage/PythonCrawler_System_$3_.coverage" NAME="3_列表推导式 Coverage Results" MODIFIED="1658919565690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Python2021Base/黑马/8_推导式" />
+    <SUITE FILE_PATH="coverage/PythonCrawler_System_$proxies_test.coverage" NAME="proxies_test Coverage Results" MODIFIED="1658980380954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/项目" />
+    <SUITE FILE_PATH="coverage/PythonCrawler_System_$6_pyquery.coverage" NAME="6_pyquery Coverage Results" MODIFIED="1658886201930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_数据提取" />
+    <SUITE FILE_PATH="coverage/PythonCrawler_System_$4_beatiful_soup.coverage" NAME="4_beatiful soup Coverage Results" MODIFIED="1658805277183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_数据提取" />
     <SUITE FILE_PATH="coverage/PythonCrawler_System_$2_re.coverage" NAME="2_re正则表达式 Coverage Results" MODIFIED="1658798758111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_数据提取" />
   </component>
 </project>
