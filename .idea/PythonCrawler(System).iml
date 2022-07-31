@@ -10,4 +10,7 @@
     <orderEntry type="module" module-name="Python2021Base" />
     <orderEntry type="module" module-name="data analysis" />
   </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="" />
+  </component>
 </module>
