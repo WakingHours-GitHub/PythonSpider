@@ -23,3 +23,272 @@ DevTools listening on ws://localhost:51878/devtools/browser/90a1619c-aae9-4fb1-b
 1659147493854	Marionette	INFO	Stopped listening on port 51890
 JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ASUS\AppData\Local\Temp\rust_mozprofileNdNfdI\protections.sqlite
+1659321425918	geckodriver	INFO	Listening on 127.0.0.1:64528
+1659321428990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilebtb8cS"
+1659321429814	Marionette	INFO	Marionette enabled
+1659321429828	Marionette	INFO	Listening on port 64540
+WebDriver BiDi listening on ws://localhost:64529
+Read port: 64540
+1659321430049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilebtb8cS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64529/devtools/browser/a691ede2-af16-4e9a-9d30-27279dddbc3f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cn.bing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+1659321487255	Marionette	INFO	Stopped listening on port 64540
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659322061389	geckodriver	INFO	Listening on 127.0.0.1:49968
+1659322064469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilejCeDMO"
+*** You are running in headless mode.
+1659322065074	Marionette	INFO	Marionette enabled
+1659322065079	Marionette	INFO	Listening on port 49980
+WebDriver BiDi listening on ws://localhost:49969
+Read port: 49980
+1659322065229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilejCeDMO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49969/devtools/browser/39f7fb71-c090-4872-b236-8773055d5e86
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659401972742	geckodriver	INFO	Listening on 127.0.0.1:60713
+1659401975838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileqCuvf1"
+1659401976574	Marionette	INFO	Marionette enabled
+1659401976580	Marionette	INFO	Listening on port 60725
+WebDriver BiDi listening on ws://localhost:60714
+Read port: 60725
+1659401976760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileqCuvf1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60714/devtools/browser/eccda215-1235-4eeb-852d-d35ac3ee4626
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+[Parent 22848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659402544223	Marionette	INFO	Stopped listening on port 60725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 22848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 22848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileMBifp9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54142/devtools/browser/979d2e74-da12-495a-ac44-f1aec5f5cafb
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659402469327	Marionette	INFO	Stopped listening on port 54156
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileaERnUi"
+1659402466276	Marionette	INFO	Marionette enabled
+1659402466280	Marionette	INFO	Listening on port 54256
+WebDriver BiDi listening on ws://localhost:54244
+Read port: 54256
+1659402466422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileaERnUi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54244/devtools/browser/b4139fe9-8018-4291-ad35-f65cd2777104
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659402543740	Marionette	INFO	Stopped listening on port 54256
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+rofile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilesgyrQx"
+1659402533635	Marionette	INFO	Marionette enabled
+1659402533641	Marionette	INFO	Listening on port 54411
+WebDriver BiDi listening on ws://localhost:54401
+Read port: 54411
+1659402533819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilesgyrQx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54401/devtools/browser/819311c3-d8d1-4e42-bcf7-f22b1cc110be
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659402546097	Marionette	INFO	Stopped listening on port 5441165console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14440, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\Temp\\rust_mozprofile0fkO9C"
+1659402546700	Marionette	INFO	Marionette enabled
+1659402546704	Marionette	INFO	Listening on port 54508
+WebDriver BiDi listening on ws://localhost:54495
+Read port: 54508
+1659402546997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile0fkO9C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54495/devtools/browser/45940a53-3499-40e1-ac9e-d0ef9438ad33
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659402557699	Marionette	INFO	Stopped listening on port 54508
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659402583610	geckodriver	INFO	Listening on 127.0.0.1:54603
+1659402586661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54604" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileDg8plf"
+1659402587050	Marionette	INFO	Marionette enabled
+1659402587054	Marionette	INFO	Listening on port 54613
+WebDriver BiDi listening on ws://localhost:54604
+Read port: 54613
+1659402587180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileDg8plf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54604/devtools/browser/47b6258c-e668-412e-8154-ecd8eea44834
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659403674383	Marionette	INFO	Stopped listening on port 54613
+[Parent 19568, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+\Temp\\rust_mozprofileCOYmO1"
+1659403259006	Marionette	INFO	Marionette enabled
+1659403259010	Marionette	INFO	Listening on port 59265
+WebDriver BiDi listening on ws://localhost:59255
+Read port: 59265
+1659403259128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileCOYmO1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59255/devtools/browser/71a77e2e-cbd8-47e0-b000-b381fb6f6a44
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659403672531	Marionette	INFO	Stopped listening on port 59265
+[Parent 1964, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1964, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+n port 59363
+WebDriver BiDi listening on ws://localhost:59352
+Read port: 59363
+1659403321469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileyO0eQu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59352/devtools/browser/a686bc33-47d3-443c-aa0b-ac109c1cef54
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659403670909	Marionette	INFO	Stopped listening on port 59363
+[Parent 10000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659403704877	geckodriver	INFO	Listening on 127.0.0.1:59597
+1659403707947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59598" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilehYD7DX"
+1659403708374	Marionette	INFO	Marionette enabled
+1659403708378	Marionette	INFO	Listening on port 59607
+WebDriver BiDi listening on ws://localhost:59598
+Read port: 59607
+1659403708517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilehYD7DX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59598/devtools/browser/248475ef-42ba-4ef6-bc10-c9fc30b8d2a1
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659403928938	Marionette	INFO	Stopped listening on port 59607
+[Parent 22480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\\rust_mozprofile32V766"
+1659403929415	Marionette	INFO	Marionette enabled
+1659403929422	Marionette	INFO	Listening on port 61962
+WebDriver BiDi listening on ws://localhost:61953
+Read port: 61962
+1659403929597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile32V766\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61953/devtools/browser/42946643-1506-40d0-9f6a-dea575cfcced
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659403970853	Marionette	INFO	Stopped listening on port 61962
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileb8Xo29"
+1659403967229	Marionette	INFO	Marionette enabled
+1659403967233	Marionette	INFO	Listening on port 62067
+WebDriver BiDi listening on ws://localhost:62058
+Read port: 62067
+1659403967371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileb8Xo29\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62058/devtools/browser/fac09aee-a451-4fc7-acd3-3b1bcf4bc80e
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659404029637	Marionette	INFO	Stopped listening on port 62067
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13644, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\Temp\\rust_mozprofileBslPBC"
+1659404015707	Marionette	INFO	Marionette enabled
+1659404015712	Marionette	INFO	Listening on port 62166
+WebDriver BiDi listening on ws://localhost:62157
+Read port: 62166
+1659404015953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileBslPBC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62157/devtools/browser/e50025d7-70c9-4ea0-8c71-bd28ef649316
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659404025840	Marionette	INFO	Stopped listening on port 62161659404027348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileJDKHQC"
+1659404027840	Marionette	INFO	Marionette enabled
+1659404027845	Marionette	INFO	Listening on port 62265
+WebDriver BiDi listening on ws://localhost:62245
+Read port: 62265
+1659404028050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileJDKHQC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62245/devtools/browser/f8d28d6b-ebe9-4756-b948-fa4f8acdd30e
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659405726415	Marionette	INFO	Stopped listening on port 62265
+[Parent 5248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+n port 62350
+WebDriver BiDi listening on ws://localhost:62340
+Read port: 62350
+1659404045468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilejIKkM6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62340/devtools/browser/a49f8bfc-11fc-4dd9-a46f-af301d82f797
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659404059266	Marionette	INFO	Stopped listening on port 62350
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7704, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659404115395	geckodriver	INFO	Listening on 127.0.0.1:62442
+1659404118449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileHg8IcQ"
+1659404118852	Marionette	INFO	Marionette enabled
+1659404118857	Marionette	INFO	Listening on port 62453
+WebDriver BiDi listening on ws://localhost:62443
+Read port: 62453
+1659404118989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileHg8IcQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62443/devtools/browser/f88a998b-e5f6-4823-9f9b-f8db8394375a
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659404164535	Marionette	INFO	Stopped listening on port 62451659404166642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62530" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileJTT8ts"
+1659404167029	Marionette	INFO	Marionette enabled
+1659404167035	Marionette	INFO	Listening on port 62540
+WebDriver BiDi listening on ws://localhost:62530
+Read port: 62540
+1659404167199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileJTT8ts\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62530/devtools/browser/3a5b3653-e272-427f-90a2-b8cd7576bfef
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://udbres.huya.com/df/hydevice-prod-1.2.0-min.js, line 1: WebGL context was lost.
+1659404189956	Marionette	INFO	Stopped listening on port 62540

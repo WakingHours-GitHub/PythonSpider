@@ -14,12 +14,13 @@ Python3使用的浏览器
 from selenium import webdriver
 firefox = webdriver.Firefox() # 前提, 需要能够找到驱动
 
-firefox.get("https://baidu.com")
+firefox.get("https://baidu.com") # 发送亲贵
 
 
 # 获取渲染后的页面源代码
 print(firefox.page_source)
-#
+
+firefox.save_screenshot('') # 保存图片
 
 
 
