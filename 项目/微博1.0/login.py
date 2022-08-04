@@ -10,8 +10,9 @@ import json
 
 
 
+# 账号和密码
 USER = "15246337585"
-PASSWD = ""
+PASSWD = "fwj15246337585"
 
 
 
@@ -84,12 +85,16 @@ def login():
         'url': 'https://weibo.com/ajaxlogin.php?framelogin=1&callback=parent.sinaSSOController.feedBackUrlCallBack',
         'returntype': 'META'
     }
-    print(params)
+    # print(params)
     login_resp = sess.post(loginUrl, headers=headers, params=params)
     login_resp.encoding='gbk'
-    print(login_resp.text) #
+    # print(login_resp.text) #
     # 请求ajax请求, 拿到token参数
     ajax_url = re.findall('https://.*?"', login_resp.text)[-1]
+    ajax_url = ajax_url.split('?')[-1].split('=')[1]
+
+    for each in ajax_url:
+        pre_dict[]
     print(ajax_url)
 
 
