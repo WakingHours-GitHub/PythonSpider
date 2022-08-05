@@ -22,6 +22,7 @@ client = pymysql.connect(
 )
 cursor = client.cursor()
 
+# 创建sql语句.
 sql = 'insert into t_ball values(0, %s, %s, %s)'  # 插入的基础sql语句, t_ball是表名, 然后使用占位符进行占位
 select_sql = "select * from t_ball where date_time = %s"
 
