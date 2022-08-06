@@ -10,4 +10,5 @@ from itemadapter import ItemAdapter
 
 class Demo1Pipeline:
     def process_item(self, item, spider):
+        print(item) # 接收spider生成器, yield.
         return item

@@ -67,9 +67,9 @@ ROBOTSTXT_OBEY = False
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = { # 写好的管道, 也需要在这配置, 开启, 才能使用
-#    'demo1.pipelines.Demo1Pipeline': 300,
-#}
+ITEM_PIPELINES = { # 写好的管道, 也需要在这配置, 开启, 才能使用
+   'demo1.pipelines.Demo1Pipeline': 300, #  指定管道的启动, 数字对应优先级, 越小表示优先级越高.
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

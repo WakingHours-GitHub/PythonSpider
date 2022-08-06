@@ -13,5 +13,9 @@ scrapy也有对应的api说明;
 
 
 from scrapy.cmdline import execute
-execute('scrapy crawl baidu'.split())
-execute(['scrapy', 'crawl', 'baidu']) # 同理.
+
+# execute('scrapy crawl baidu'.split())
+# execute(['scrapy', 'crawl', 'baidu']) # 同理.
+
+# 起点网开始爬取
+execute('scrapy crawl maoyan'.split())
