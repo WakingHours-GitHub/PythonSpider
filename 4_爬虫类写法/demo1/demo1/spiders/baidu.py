@@ -14,4 +14,4 @@ class BaiduSpider(scrapy.Spider):
     # 获取从downloader下载的resp, 然后进行解析.
     def parse(self, response):
         # pass
-        print(response.text)
+        print(response.text) # 这里直接打印resp.text()页面信息

@@ -5,7 +5,11 @@ class QidianSpider(scrapy.Spider):
     name = 'qidian'
     allowed_domains = ['qidian,com']
     # start_url, 就是我们开始要爬取的主页面
-    start_urls = ['https://www.qidian.com/rank/hotsales/']
+    # start_urls = ['https://www.qidian.com/rank/hotsales/']
+
+    # 自己设置start_request函数, 不再以start_urls进行开始了.
+    def start_requests(self):
+        yield scrapy.Request("https://www.qidian.com/rank/hotsales/")
 
     # 解析部分
     def parse(self, response):

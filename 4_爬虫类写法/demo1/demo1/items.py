@@ -4,7 +4,6 @@
 # https://docs.scrapy.org/en/latest/topics/items.html
 
 import scrapy
-import spiders.maoyan
 
 # module差不错, 就是封装字段.
 # 直接使用scrapy.Field()
