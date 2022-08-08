@@ -110,4 +110,4 @@ class Scheduling:
 
 if __name__ == '__main__':
     scheduling = Scheduling()
-    scheduling.run()
+    scheduling.run('')
