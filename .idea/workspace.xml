@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4a4331b-f477-47b5-b91f-acf2866231cd" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/../PyTorch/.idea/PyTorch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PyTorch/.idea/PyTorch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python2021Base/黑马/9_函数/8_拆包.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python2021Base/黑马/9_函数/8_拆包.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/项目/微博1.0/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/项目/微博1.0/login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowRun.ShowToolbar": "false",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/Pycharm/Python2021Base",
+    "last_opened_file_path": "D:/PyCharm/PythonScrapy",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -202,6 +199,7 @@
       <workItem from="1659490823704" duration="5193000" />
       <workItem from="1659513610208" duration="1057000" />
       <workItem from="1659522868018" duration="946000" />
+      <workItem from="1660007592556" duration="60000" />
     </task>
     <servers />
   </component>

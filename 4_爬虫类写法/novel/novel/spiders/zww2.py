@@ -1,21 +1,20 @@
-import scrapy
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 
-
+# scrapy genspider -t crawl 文件名 (allowed_url)
+# 就可以创建带有Rule的spider, 自动解析url链接. 加入到url管理当中
 class Zww2Spider(CrawlSpider):
     name = 'zww2'
     allowed_domains = ['81zw.us']
     start_urls = ['https://www.81zw.com/book/57942/']
 
-    rules = ( # 是一个规则。用于提取链接。
+    rules = (  # 是一个规则。用于提取链接。根据所给规则提取对应页面上的链接
         # LinkExtractor: 链接提取器对象
         # callback: 使用回调函数进行解析。
         # follow: 是否继续跟进，提出url后，访问，是否还需要在新的url中提取url。
         # Rule(LinkExtractor(allow=r'Items/'), callback='parse_item', follow=True),
 
         Rule(LinkExtractor(restrict_xpaths=r'//dd[1]/a'), callback='parse_item', follow=True),
-
 
         # 只需要定位到这里的标签, 会自动抽取其中的值.
         # 这里只需要定位到a, 然后他会自动提取其中的标签, 并且自动拼接
@@ -24,17 +23,14 @@ class Zww2Spider(CrawlSpider):
     )
 
     def parse_item(self, response):
-
-        title = response.xpath('//h1/text()').extract_first() # 抽取内容
+        title = response.xpath('//h1/text()').extract_first()  # 抽取内容
         content = response.xpath('string(//div[@id="content"])').extract_first()
         print(title)
         yield {'title': title, content: content}
 
-
         # item = {}
 
-
-        #item['domain_id'] = response.xpath('//input[@id="sid"]/@value').get()
-        #item['name'] = response.xpath('//div[@id="name"]').get()
-        #item['description'] = response.xpath('//div[@id="description"]').get()
+        # item['domain_id'] = response.xpath('//input[@id="sid"]/@value').get()
+        # item['name'] = response.xpath('//div[@id="name"]').get()
+        # item['description'] = response.xpath('//div[@id="description"]').get()
         # return item # 返回字典.
