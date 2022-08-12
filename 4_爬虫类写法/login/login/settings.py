@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = 'login.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = UserAgent().chrome
+USER_AGENT = UserAgent().edge
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
