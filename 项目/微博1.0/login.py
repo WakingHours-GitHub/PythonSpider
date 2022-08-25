@@ -1,6 +1,6 @@
 import base64
 import binascii
-import rsa
+# import rsa
 import requests
 from fake_useragent import UserAgent
 import time
@@ -51,10 +51,12 @@ def pre_login() -> dict:
 # 预登录结束
 
 pre_dict = pre_login() # 返回predict
+# 返回参数字典.
 
 # 开始登录
 # 密码登录.
 def encrypt_passwd(passwd, pubkey, servertime, nonce):
+    """构造加密密码"""
     key = rsa.PublicKey(int(pubkey, 16), int('10001', 16)) # 使用rsa算法
     message = str(servertime) + '\t' + str(nonce) + '\n' + str(passwd) # 参数拼接
     passwd = rsa.encrypt(message.encode('utf-8'), key) # 加密.
@@ -93,8 +95,8 @@ def login():
     ajax_url = re.findall('https://.*?"', login_resp.text)[-1]
     ajax_url = ajax_url.split('?')[-1].split('=')[1]
 
-    for each in ajax_url:
-        pre_dict[]
+    # for each in ajax_url:
+    #     pre_dict[]
     print(ajax_url)
 
 
